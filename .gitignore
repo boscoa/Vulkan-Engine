@@ -27,4 +27,8 @@
 *.exe
 *.out
 *.app
-/Vulkan/Debug/Vulkan.tlog
+/Vulkan/Debug/
+/Vulkan/x64
+/Vulkan/Vulkan.VC.db
+*.db
+/Vulkan Triangle
