@@ -28,6 +28,8 @@
 *.out
 *.app
 /Vulkan/Debug/
+/Vulkan/Release/
+/Vulkan/.vs/*
 /Vulkan/x64
 /Vulkan/Vulkan.VC.db
 *.db
