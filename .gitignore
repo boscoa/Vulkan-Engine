@@ -34,3 +34,5 @@
 /Vulkan/Vulkan.VC.db
 *.db
 /Vulkan Triangle
+*.TMP
+*.SPV
